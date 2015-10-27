@@ -1,4 +1,5 @@
 from decimal import Decimal, getcontext
+
 getcontext().prec = 4
 S=Decimal(input())
 x=Decimal(input())

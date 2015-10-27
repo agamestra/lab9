@@ -1,4 +1,5 @@
 from decimal import Decimal
+
 S=Decimal(input())
 x=Decimal(input())
 y=Decimal(input())
